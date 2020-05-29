@@ -1,5 +1,5 @@
 # mp3 player
-My first mp3 player.\
+
 This python program find all the mp3 files in the folder with the script, list all of them by name to a __Listbox__\
 and show it to the user for later usage.
 
