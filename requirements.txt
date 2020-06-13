@@ -1,2 +1,2 @@
-pygame
-mutagen
+pygame>=1.9.6
+mutagen>=1.44.0
