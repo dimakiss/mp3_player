@@ -18,3 +18,5 @@ In any point, u can pause ur music and keep listening later.\
 The numbers on the slider represent the seconds that have passed from the start, and below there\
 is `H:M:S (hours:minute:seconds)`  format one from the start and one for the total time
 
+`Note: need to fix some bugs and rearrange the code`
+
